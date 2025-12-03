@@ -15,7 +15,7 @@
 
 - 👨‍💻 Front-end Developer experienced in React.js and Next.js, focused on high performance and user-friendly interfaces.
 - 💬 Interested in mobile development and building clean, scalable apps.
-- 🌱 Currently learning React Native on Udemy to level up my skills.
+- 🌱 Currently learning React Native to level up my skills.
 
  <div align=center>
 
